@@ -1,4 +1,11 @@
 README<br>
+Contact SiriusLabs
+Discord:https://discord.gg/6aa3BBmxVc
+Twitter:@SiriusLabs_vc
+Reddit:https://www.reddit.com/r/SiriusHacks
+Linkedin:https://www.linkedin.com/company/srsvc
+
+
 # Global Online Hackathon on Chia Network. $500K in prize pool & seed funding
 
 **Buckle up, hup on the rocket to the top-notch hackathon at the brightest star – Sirius !**
