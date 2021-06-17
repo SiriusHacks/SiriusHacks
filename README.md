@@ -1,10 +1,9 @@
-README<br>
-Contact SiriusLabs
-Discord:https://discord.gg/6aa3BBmxVc
-Twitter:@SiriusLabs_vc
-Reddit:https://www.reddit.com/r/SiriusHacks
-Linkedin:https://www.linkedin.com/company/srsvc
-
+README<br><br>
+**Contact SiriusLabs**<br>
+Discord: https://discord.gg/6aa3BBmxVc<br>
+Twitter: @SiriusLabs_vc <br>
+Reddit: https://www.reddit.com/r/SiriusHacks <br>
+Linkedin: https://www.linkedin.com/company/srsvc <br>
 
 # Global Online Hackathon on Chia Network. $500K in prize pool & seed funding
 
@@ -67,28 +66,29 @@ Once installed, a [Quick Start Guide](https://github.com/Chia-Network/chia-block
 -	Meet up with TOP Investment Institutions<br><br>
 
 ### Evaluation Criteria
-**ChiaLisp Based（Y/N）**  
+**ChiaLisp Based (Y/N)**  <br>
 The project must be Chialisp-based. Even if  the team already launched a project in other blockchain infrastructure, they shall migrate the project to Chia Network using Chialisp.
 
-**Category(45%)** 
+**Category (45%)** <br>
 To ensure the diversity of  Chia ecosystem, the players are required to adress certain issues, including Better Layer2, Better DeFi and Better NFT.
 
 More attempts are also welcome, including but not limited to: decentralized computing, decentralized storage, privacy, decentralized identity, media and advertising, games, etc.
 
-**Creativity（20%)** 
+**Creativity (20%)** <br>
 Creativity is core value. Investors and the community tend to capture innovative ideas and projects. Compared with existing blockchain projects or application scenarios, in what way does the project show its creativity? Does the project make full use of "Proof of Space" and "Proof of Time"? 
 
-**Feasibility（30%)** 
+**Feasibility (30%)** <br>
 The judges screen projects based on the white papers/technical documents uploaded to Github, and observe whether it is technically feasible? Does the project have technical or economic flaws during execution? Is the business or token model reasonable and sustainable in the long run?
 
-**Team Execution（25%)** 
+**Team Execution (25%)** <br>
 A combination of solid leadership, communication, and access to good resources contribute to a good team. Does the co-founder have starup experience? Do the (co-)founders have experience in the blockchain field or any other start-ups? 
 
-**Adoption&Market（20%)** 
-The adoption is the key after the launch of the project, how to target potential users or markets? How many users will be attracted? 
+**Adoption&Market (20%)** <br>
+The adoption is the key after the launch of the project, how to target potential users or markets? How many users will be attracted? <br><br>
+
 
 ### Application
-Go to website: [srs.vc]() for registration and application, this takes 3 minutes.
+Go to website: [srs.vc](srs.vc) for registration and application, this takes 3 minutes.
 
 Participants has 14 days to prepare the project. (instructions can be found on github：siriushacks/ chia-online-hackathon), and the project should be uploaded after deadline.
 
