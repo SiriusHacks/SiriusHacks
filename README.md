@@ -88,7 +88,7 @@ The adoption is the key after the launch of the project, how to target potential
 
 
 ### Application
-Go to website: [srs.vc](srs.vc) for registration and application, this takes 3 minutes.
+Go to website: [srs.vc](http://srs.vc/#/) for registration and application, this takes 3 minutes.
 
 Participants has 14 days to prepare the project. (instructions can be found on github：siriushacks/ chia-online-hackathon), and the project should be uploaded after deadline.
 
