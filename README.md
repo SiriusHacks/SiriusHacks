@@ -10,16 +10,20 @@ Linkedin: https://www.linkedin.com/company/srsvc <br>
 **Buckle up, hup on the rocket to the top-notch hackathon at the brightest star – Sirius !**
 
 
-### Introduction
-Various types of hackathons have contributed a great deal to the blockchain industry so far, and various contests like hackathons have helped to incubate outstanding talent and projects for the industry; Sirius Labs and Chia, and together with leading partners, will hold a global online hackathon on Chia Network between 10th July and 10th August, 2021. We granted $500 000 to the prize pool, and winning teams will have the opportunity of receiving seed funding; All teams who send applications and upload qualified projects will receive a welcome prize of 100 dollar and access to limited edition NFT, please read more for details below.
+## Introduction
+Various types of hackathons have contributed a great deal to the blockchain industry so far, and various contests like hackathons have helped to incubate outstanding talent and projects for the industry; Sirius Labs and Chia, and together with leading partners, will hold a global online hackathon on Chia Network between 17th July and 30th August, 2021. We granted $500 000 to the prize pool, and winning teams will have the opportunity of receiving seed funding; All teams who send applications and upload qualified projects will receive a welcome prize of 100 dollar and access to limited edition NFT, please read more for details below.
 
 Since its official launch, Chia is constantly gaining international recognition. The amount of farming equipment across the network has reached an ideal level. The number of global farmers is estimated to reach 50,000 to 100,000, which is enough to establish a large number of POC-based cloud services. With the infrastructure growing rapidly, the expansion of Chia ecosystem shall be given priority.
 
-It is of great importance to develop the layer2 that is corresponded with lighting network, and apply it before using chia in large-scale for more advanced developing. The theme of the upcoming hackathon is Create and Build, a better layer2 and better defi based on chia network.
+Chia adopts the unique consensus mechanism – PoST, Proofs of Time and Space, PoST uses verifiable delay function, which enables the internet well resistant against external attacks; By using PoST, Chia Network has lower GAS fee, faster transaction speed, more environment-friendly, is very suitable for developing decentralized applications.
+ 
+However, Chia network is still at the early-stage of dividend period, on which relatively fewer projects exist at this moment. It is of great importance to develop the layer2 that is corresponded with lighting network, before realizing cross-chain behavior in the future, and before using chia in large-scale for more advanced developing. 
+
+The theme of the upcoming hackathon is Create and Build, developing areas include but not limited to a better layer2, better DeFi, storage and better NFT based on Chia network.
 
 The purpose of this hackathon is to assist teams with strong technical skills to grow, and to help chia network to become a universal eco-system from a “seed”. <br><br>
 
-### Chia Resources
+## Chia Resources
 **Chia** is a modern cryptocurrency built from scratch, designed to be efficient, decentralized, and secure. Here are some of the features and benefits:<br>
 - [Proof of space and time](https://docs.google.com/document/d/1tmRIb7lgi4QfKkNaxuKOBHRmwbVlGL4f7EsBDr_5xZE/edit) based consensus which allows anyone to farm with commodity hardware<br>
 - Very easy to use full node and farmer GUI and cli (thousands of nodes active on mainnet)<br>
@@ -43,8 +47,12 @@ Install instructions are available in the [INSTALL](https://github.com/Chia-Netw
 **Running**<br>
 Once installed, a [Quick Start Guide](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide) is available from the repository [wiki](https://github.com/Chia-Network/chia-blockchain/wiki).<br><br>
 
+**Resources for New Chialisp Developers**<br>
+If you are not familliar with Chialisp, we list some [materials](ChiaLisp_resource.md) which could be helpful.<br>
+We are also going to hold a Chialisp Camp during **July 17-July 19**. You can subscribe our [Twitch channel](https://twitch.tv/siriuslabs) and [YouTube channel](https://www.youtube.com/channel/UCI7jc7zBcIvlISfCFLfSkCA) beforehand to receive a notification of live streaming workshops.
 
-### Highlights of Hackathon
+
+## Highlights of Hackathon
 **Interactive**
 - Chialisp Online Tutoring
 - Chialisp Tutorial Video provided
@@ -87,10 +95,14 @@ A combination of solid leadership, communication, and access to good resources c
 The adoption is the key after the launch of the project, how to target potential users or markets? How many users will be attracted? <br><br>
 
 
-### Application
-Go to website: [srs.vc](srs.vc) for registration and application, this takes 3 minutes.
+## Application
+Go to website: [srs.vc](http://srs.vc/#/) for registration and application, this takes 3 minutes.
 
-Participants has 14 days to prepare the project. (instructions can be found on github：siriushacks/ chia-online-hackathon), and the project should be uploaded after deadline.
+You are required to prepare the following materials for application: 
+1) Project details 
+2) Slides/video/whitepaper/website which introduces the project 
+3) Github repository link (Optional)
+4) Project logo (Optional)
 
 We will contact you after the project is uploaded, and the limited-edition-NFT will be granted then.<br><br>
 
