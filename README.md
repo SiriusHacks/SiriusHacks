@@ -11,7 +11,7 @@ Linkedin: https://www.linkedin.com/company/srsvc <br>
 
 
 ## Introduction
-Various types of hackathons have contributed a great deal to the blockchain industry so far, and various contests like hackathons have helped to incubate outstanding talent and projects for the industry; Sirius Labs and Chia, and together with leading partners, will hold a global online hackathon on Chia Network between 17th July and 30th August, 2021. We granted $500 000 to the prize pool, and winning teams will have the opportunity of receiving seed funding; All teams who send applications and upload qualified projects will receive a welcome prize of 100 dollar and access to limited edition NFT, please read more for details below.
+Various types of hackathons have contributed a great deal to the blockchain industry so far, and various contests like hackathons have helped to incubate outstanding talent and projects for the industry; Sirius Labs and Chia, and together with leading partners, will hold a global online hackathon on Chia Network between 17th July and 30th August, 2021. We granted $500 000 to the prize pool, and winning teams will have the opportunity of receiving seed funding, please read more for details below.
 
 Since its official launch, Chia is constantly gaining international recognition. The amount of farming equipment across the network has reached an ideal level. The number of global farmers is estimated to reach 50,000 to 100,000, which is enough to establish a large number of POC-based cloud services. With the infrastructure growing rapidly, the expansion of Chia ecosystem shall be given priority.
 
