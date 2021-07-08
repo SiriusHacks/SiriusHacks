@@ -45,7 +45,7 @@ Most users should only install harvesters, farmers, plotter, full nodes, and wal
 Install instructions are available in the [INSTALL](https://github.com/Chia-Network/chia-blockchain/wiki/INSTALL) section of the [chia-blockchain repository wiki](https://github.com/Chia-Network/chia-blockchain/wiki).
 
 **Running**<br>
-Once installed, a [Quick Start Guide](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide) is available from the repository [wiki](https://github.com/Chia-Network/chia-blockchain/wiki).<br><br>
+Once installed, a [Quick Start Guide](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide) is available from the repository [wiki](https://github.com/Chia-Network/chia-blockchain/wiki).<br>
 
 **Resources for New Chialisp Developers**<br>
 If you are not familliar with Chialisp, we list some [materials](ChiaLisp_resource.md) which could be helpful.<br>
@@ -73,7 +73,7 @@ We are also going to hold a Chialisp Camp during **July 17-July 19**. You can su
 -	Project Incubation
 -	Meet up with TOP Investment Institutions<br><br>
 
-### Evaluation Criteria
+## Evaluation Criteria
 **ChiaLisp Based (Y/N)**  <br>
 The project must be Chialisp-based. Even if  the team already launched a project in other blockchain infrastructure, they shall migrate the project to Chia Network using Chialisp.
 
@@ -107,7 +107,7 @@ You are required to prepare the following materials for application:
 We will contact you after the project is uploaded, and the limited-edition-NFT will be granted then.<br><br>
 
 
-### Legal Disclaimer
+## Legal Disclaimer
 The Chia Online Hackathon is a competition where projects will be evaluated by judges on their technological merits without consideration of legal viability. Participants in the Hackathon will create software solely for purposes of evaluation by judges as part of a competition and not for commercial deployment or release as part of the Hackathon. All participants must comply with applicable laws and regulations when releasing any software that they develop as part of the Hackathon.
 
 The Hackathon resources provided are for educational and inspirational purposes only. Sirius Labs（SL）does not encourage, induce or sanction the deployment of any such applications in violation of applicable laws or regulations. SL does not encourage, induce or sanction the deployment, integration or use of any such applications in violation of applicable laws or regulations and hereby prohibits any such deployment, integration or use.
