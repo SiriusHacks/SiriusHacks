@@ -1,5 +1,8 @@
 # Resources for New Chialisp Developers 
-Chialisp language is used for building smart transactions launched by Chia network. 
+Chialisp language is a LISP-like language used for building smart transactions launched by Chia network.<br>
+
+Learn some basics about **[LISP](https://www.tutorialspoint.com/lisp/index.htm)** before diving deep into chialisp. 
+
 If you are new to Chialisp, here are some resources to help you catch up. 
 
 
