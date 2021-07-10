@@ -27,8 +27,6 @@ If your are curious about the reasons why this old language is used as Chia's on
 
 Chia network provides a tutorial video on [youtube](https://www.youtube.com/watch?v=dEFLJSU87K8&t=1768s) about the introduction to developing in chia.<br>
 
-We are also going to hold a Chialisp Training Camp during **17th July - 19th July**, please subscribe our [Twitch channel](https://www.twitch.tv/siriuslabs) and [Youtube channel](https://www.youtube.com/channel/UCI7jc7zBcIvlISfCFLfSkCA) to receive notifications of live streaming workshops.
-
 
 
 ## Reference 
