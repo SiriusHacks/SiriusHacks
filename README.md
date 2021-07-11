@@ -77,7 +77,7 @@ If you are not familliar with Chialisp, we list some [materials](ChiaLisp_resour
 The project must be Chialisp-based. Even if  the team already launched a project in other blockchain infrastructure, they shall migrate the project to Chia Network using Chialisp.
 
 **Category (45%)** <br>
-To ensure the diversity of  Chia ecosystem, the players are required to adress certain issues, including Better Layer2, Better DeFi and Better NFT.
+To ensure the diversity of  Chia ecosystem, the players are required to address certain issues, including Better Layer2, Better DeFi and Better NFT.
 
 More attempts are also welcome, including but not limited to: decentralized computing, decentralized storage, privacy, decentralized identity, media and advertising, games, etc.
 
@@ -88,7 +88,7 @@ Creativity is core value. Investors and the community tend to capture innovative
 The judges screen projects based on the white papers/technical documents uploaded to Github, and observe whether it is technically feasible? Does the project have technical or economic flaws during execution? Is the business or token model reasonable and sustainable in the long run?
 
 **Team Execution (25%)** <br>
-A combination of solid leadership, communication, and access to good resources contribute to a good team. Does the co-founder have starup experience? Do the (co-)founders have experience in the blockchain field or any other start-ups? 
+A combination of solid leadership, communication, and access to good resources contribute to a good team. Does the co-founder have startup experience? Do the (co-)founders have experience in the blockchain field or any other start-ups? 
 
 **Adoption&Market (20%)** <br>
 The adoption is the key after the launch of the project, how to target potential users or markets? How many users will be attracted? <br><br>
