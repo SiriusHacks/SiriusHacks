@@ -5,6 +5,13 @@ Twitter: @SiriusLabs_vc <br>
 Reddit: https://www.reddit.com/r/SiriusHacks <br>
 Linkedin: https://www.linkedin.com/company/srsvc <br>
 
+**READ FIRST!** <br>
+Global Chia Hackathon is **delayed**, a request from Chia Network, to have more time to prepare properly their training materials for Chialisp Training Camp.<br>
+Check Official Announcement: https://srs.vc/#/hackathon <br>
+Pre-submission is Open for Application.(Demo: Slide/whitepaper/video,etc) <br>
+Pre-submission entry: https://srs.vc/#/ <br>
+
+
 # Global Online Hackathon on Chia Network. $500K in prize pool & seed funding
 
 **Buckle up, hup on the rocket to the top-notch hackathon at the brightest star – Sirius !**
