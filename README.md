@@ -80,8 +80,8 @@ If you are not familliar with Chialisp, we list some [materials](ChiaLisp_resour
 -	Meet up with TOP Investment Institutions<br><br>
 
 ## Evaluation Criteria
-**ChiaLisp Based (Y/N)**  <br>
-The project must be Chialisp-based. Even if  the team already launched a project in other blockchain infrastructure, they shall migrate the project to Chia Network using Chialisp.
+**ChiaLisp Based**  <br>
+All Chia related projects are welcome while Chialisp-based projects will be given priority. 
 
 **Category (45%)** <br>
 To ensure the diversity of  Chia ecosystem, the players are required to address certain issues, including Better Layer2, Better DeFi and Better NFT.
