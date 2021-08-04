@@ -3,7 +3,7 @@ README<br><br>
 Discord: https://discord.gg/6aa3BBmxVc<br>
 Twitter: @SiriusLabs_vc <br>
 Reddit: https://www.reddit.com/r/SiriusHacks <br>
-Linkedin: https://www.linkedin.com/company/srsvc <br>
+
 
 **READ FIRST!** <br>
 Global Chia Hackathon is **delayed**, a request from Chia Network, to have more time to prepare properly their training materials for Chialisp Training Camp.<br>
@@ -78,27 +78,6 @@ If you are not familliar with Chialisp, we list some [materials](ChiaLisp_resour
 -	Grand Prizes for Winners
 -	Project Incubation
 -	Meet up with TOP Investment Institutions<br><br>
-
-## Evaluation Criteria
-**ChiaLisp Based**  <br>
-All Chia related projects are welcome while Chialisp-based projects will be given priority. 
-
-**Category (45%)** <br>
-To ensure the diversity of  Chia ecosystem, the players are required to address certain issues, including Better Layer2, Better DeFi and Better NFT.
-
-More attempts are also welcome, including but not limited to: decentralized computing, decentralized storage, privacy, decentralized identity, media and advertising, games, etc.
-
-**Creativity (20%)** <br>
-Creativity is core value. Investors and the community tend to capture innovative ideas and projects. Compared with existing blockchain projects or application scenarios, in what way does the project show its creativity? Does the project make full use of "Proof of Space" and "Proof of Time"? 
-
-**Feasibility (30%)** <br>
-The judges screen projects based on the white papers/technical documents uploaded to Github, and observe whether it is technically feasible? Does the project have technical or economic flaws during execution? Is the business or token model reasonable and sustainable in the long run?
-
-**Team Execution (25%)** <br>
-A combination of solid leadership, communication, and access to good resources contribute to a good team. Does the co-founder have startup experience? Do the (co-)founders have experience in the blockchain field or any other start-ups? 
-
-**Adoption&Market (20%)** <br>
-The adoption is the key after the launch of the project, how to target potential users or markets? How many users will be attracted? <br><br>
 
 
 ## Application
