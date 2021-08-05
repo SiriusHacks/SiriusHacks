@@ -6,8 +6,6 @@ Reddit: https://www.reddit.com/r/SiriusHacks <br>
 
 
 **READ FIRST!** <br>
-Global Chia Hackathon is **delayed**, a request from Chia Network, to have more time to prepare properly their training materials for Chialisp Training Camp.<br>
-Check Official Announcement: https://srs.vc/#/hackathon <br>
 Pre-submission is Open for Application.(Demo: Slide/whitepaper/video,etc) <br>
 Pre-submission entry: https://srs.vc/#/ <br>
 
@@ -18,7 +16,7 @@ Pre-submission entry: https://srs.vc/#/ <br>
 
 
 ## Introduction
-Various types of hackathons have contributed a great deal to the blockchain industry so far, and various contests like hackathons have helped to incubate outstanding talent and projects for the industry; Sirius Labs and Chia, and together with leading partners, will hold a global online hackathon on Chia Network between 17th July and 30th August, 2021. We granted $500 000 to the prize pool, and winning teams will have the opportunity of receiving seed funding, please read more for details below.
+Various types of hackathons have contributed a great deal to the blockchain industry so far, and various contests like hackathons have helped to incubate outstanding talent and projects for the industry; Sirius Labs and Chia, and together with leading partners, will hold a global online hackathon on Chia Network between 12th August and 17th September, 2021. We granted $500 000 to the prize pool, and winning teams will have the opportunity of receiving seed funding, please read more for details below.
 
 Since its official launch, Chia is constantly gaining international recognition. The amount of farming equipment across the network has reached an ideal level. The number of global farmers is estimated to reach 50,000 to 100,000, which is enough to establish a large number of POC-based cloud services. With the infrastructure growing rapidly, the expansion of Chia ecosystem shall be given priority.
 
@@ -26,7 +24,7 @@ Chia adopts the unique consensus mechanism – PoST, Proofs of Time and Space, P
  
 However, Chia network is still at the early-stage of dividend period, on which relatively fewer projects exist at this moment. It is of great importance to develop the layer2 that is corresponded with lighting network, before realizing cross-chain behavior in the future, and before using chia in large-scale for more advanced developing. 
 
-The theme of the upcoming hackathon is Create and Build, developing areas include but not limited to a better layer2, better DeFi, storage and better NFT based on Chia network.
+The theme of the upcoming hackathon is Create and Build, developing areas include but not limited to a improved layer2, improved DeFi, improved NFT, Gamefi, Tools/Wallet, etc. 
 
 The purpose of this hackathon is to assist teams with strong technical skills to grow, and to help chia network to become a universal eco-system from a “seed”. <br><br>
 
@@ -78,6 +76,19 @@ If you are not familliar with Chialisp, we list some [materials](ChiaLisp_resour
 -	Grand Prizes for Winners
 -	Project Incubation
 -	Meet up with TOP Investment Institutions<br><br>
+
+## Judging Criteria
+**Category**<br>
+The tracks or themes may include but are not limited to the following:Improved DeFi, Improved NFT, Improved Layer2, GameFi, Tools and wallet. Other attempts are also welcome.
+
+**Creativity**<br>
+Compared with existing blockchain projects or application scenarios, in what way does the project show its creativity? Does the project make full use of "Proof of Space" and "Proof of Time"?
+
+**Feasibility**<br>
+The judges screen projects based on the white papers/technical documents uploaded to Github, and observe whether it is technically feasible? Is the business or token model reasonable and sustainable?
+
+**Adoption&Market**<br>
+The adoption is the key after the launch of the project. How to target potential users or markets? How many users will be attracted?
 
 
 ## Application
