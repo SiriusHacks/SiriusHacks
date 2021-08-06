@@ -1,8 +1,6 @@
 # Resources for New Chialisp Developers 
 Chialisp language is a LISP-like language used for building smart transactions launched by Chia network.<br>
 
-Learn some basics about **[LISP](https://www.tutorialspoint.com/lisp/index.htm)** before diving deep into chialisp. 
-
 If you are new to Chialisp, here are some resources to help you catch up. 
 
 
@@ -28,8 +26,9 @@ If your are curious about the reasons why this old language is used as Chia's on
 Chia network provides a tutorial video on [youtube](https://www.youtube.com/watch?v=dEFLJSU87K8&t=1768s) about the introduction to developing in chia.<br>
 
 
-
 ## Reference 
 The Chialisp document: [Chialisp official website](https://chialisp.com/#developer-documentation)
 
 Lower level language reference document: [CLVM Reference Manual](https://chialisp.com/docs/ref/clvm/)
+
+Chia official YouTube Channel: [Chia YouTube Channel](https://www.youtube.com/channel/UChFkJ3OAUvnHZdiQISWdWPA)
