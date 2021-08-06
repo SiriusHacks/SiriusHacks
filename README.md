@@ -12,7 +12,7 @@ Pre-submission entry: https://srs.vc/#/ <br>
 
 # Global Online Hackathon on Chia Network. $500K in prize pool & seed funding
 
-**Buckle up, hup on the rocket to the top-notch hackathon at the brightest star – Sirius !**
+**Buckle up, hup on the rocket to the top-notch hackathon at the brightest star – Sirius!**
 
 
 ## Introduction
@@ -24,7 +24,7 @@ Chia adopts the unique consensus mechanism – PoST, Proofs of Time and Space, P
  
 However, Chia network is still at the early-stage of dividend period, on which relatively fewer projects exist at this moment. It is of great importance to develop the layer2 that is corresponded with lighting network, before realizing cross-chain behavior in the future, and before using chia in large-scale for more advanced developing. 
 
-The theme of the upcoming hackathon is Create and Build, developing areas include but not limited to a improved layer2, improved DeFi, improved NFT, Gamefi, Tools/Wallet, etc. 
+The theme of the upcoming hackathon is Create and Build, developing areas include but not limited to improved layer2, improved DeFi, improved NFT, Gamefi, Tools/Wallet, etc. 
 
 The purpose of this hackathon is to assist teams with strong technical skills to grow, and to help chia network to become a universal eco-system from a “seed”. <br><br>
 
@@ -90,17 +90,6 @@ The judges screen projects based on the white papers/technical documents uploade
 **Adoption&Market**<br>
 The adoption is the key after the launch of the project. How to target potential users or markets? How many users will be attracted?
 
-
-## Application
-Go to website: [srs.vc](http://srs.vc/#/) for registration and application, this takes 3 minutes.
-
-You are required to prepare the following materials for application: 
-1) Project details 
-2) Slides/video/whitepaper/website which introduces the project 
-3) Github repository link (Optional)
-4) Project logo (Optional)
-
-We will contact you after the project is uploaded, and the limited-edition-NFT will be granted then.<br><br>
 
 
 ## Legal Disclaimer
