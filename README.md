@@ -78,6 +78,9 @@ If you are not familliar with Chialisp, we list some [materials](ChiaLisp_resour
 -	Meet up with TOP Investment Institutions<br><br>
 
 ## Judging Criteria
+**Chialisp Based**<br>
+All Chia related projects are welcome while Chialisp-based projects will be given priority.
+
 **Category**<br>
 The tracks or themes may include but are not limited to the following:Improved DeFi, Improved NFT, Improved Layer2, GameFi, Tools and wallet. Other attempts are also welcome.
 
@@ -89,6 +92,21 @@ The judges screen projects based on the white papers/technical documents uploade
 
 **Adoption&Market**<br>
 The adoption is the key after the launch of the project. How to target potential users or markets? How many users will be attracted?
+
+## Submission 
+**Mandatory Submissions Requirements:**<br>
+- Github Repository Link to your working application for judging and testing. Include a link to your repo hosting the code and all deployment files and testing instructions needed for testing your project in a README.md file. <br>
+- Slide deck/White paper to introduce the project.<br>
+- The submission form on Devpost before the deadline.<br>
+- Submissions and their content must be in English.<br>
+
+**Non-mandatory / additional submissions - Not Required:**<br>
+A link to a short(max 10 minutes) video introducing the project, its use case and functionality.<br>
+
+**Bonus points if you submit the following:**<br>
+- A project post on Medium explaining the project, its market and objects, team members, roadmap and more. <br>
+- Market survey data.<br>
+- Online websites and social communites (as an example of what they would create). <br>
 
 
 
