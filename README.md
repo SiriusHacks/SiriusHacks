@@ -1,13 +1,12 @@
 README<br><br>
 **Contact SiriusLabs**<br>
-Discord: https://discord.gg/6aa3BBmxVc<br>
+Discord: https://discord.gg/HrzDvV8XDx<br>
 Twitter: @SiriusLabs_vc <br>
 Reddit: https://www.reddit.com/r/SiriusHacks <br>
 
 
 **READ FIRST!** <br>
-Pre-submission is Open for Application.(Demo: Slide/whitepaper/video,etc) <br>
-Pre-submission entry: https://srs.vc/#/ <br>
+Official project submissions open on August 12th on [Devpost](https://chiahackathon2021.devpost.com/) and [Hackerlink (limited to Asia)](https://hackerlink.io/grant/Chia/1/buidl). 
 
 
 # Global Online Hackathon on Chia Network. $500K in prize pool & seed funding
@@ -53,7 +52,7 @@ Install instructions are available in the [INSTALL](https://github.com/Chia-Netw
 Once installed, a [Quick Start Guide](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide) is available from the repository [wiki](https://github.com/Chia-Network/chia-blockchain/wiki).<br>
 
 **Resources for New Chialisp Developers**<br>
-If you are not familliar with Chialisp, we list some [materials](ChiaLisp_resource.md) which could be helpful.<br>
+If you are not familliar with Chialisp, we list some [materials](chialisp_resource.md) which could be helpful.<br>
 
 
 ## Highlights of Hackathon
